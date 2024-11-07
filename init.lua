@@ -26,4 +26,5 @@ require("lazy").setup({
   require("plugins.which-key"),
   require("plugins.substitute"),
   require("plugins.comment"),
+  require("plugins.treesitter-auto-tag"),
 })
